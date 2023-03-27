@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def greaterThat(x , y):
+def greaterThan(x , y):
     if x > y:
         return True
     else:
